@@ -2,6 +2,10 @@
 6.  Escribir un programa que solicite los datos de un producto 
 (nombre del producto, marca, precio unitario, fecha de elaboración, tamaño)
  y lo guarde en un archivo de texto con el nombre “Datos_Producto.txt”.
+
+7.  Escribir un programa que cree una estructura llamada "Producto", y que
+ contenga los siguientes datos (nombre del producto, marca, precio unitario, fecha de elaboración, tamaño) y
+  lo guarde en un archivo de texto con el nombre “Datos_Producto_Estructura.txt”.
 */
 
 #include <iostream>
